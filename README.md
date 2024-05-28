@@ -1,2 +1,7 @@
-<h1>Juego del Número Secreto</h1>
-- Estado del proyecto: Terminado
+# Juego del Número Secreto
+
+## 👨‍💻 Desarrollado por
+
+David Velasco Fierros
+
+
